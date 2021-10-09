@@ -12,7 +12,11 @@
 
 #### Extract the files in the Movie predictor folder. Now create a virtual environment with Python 3.9 and then install the packages in the requirements.txt file.
 
-#### Now run the Preprocessing.ipynb file in the Movie predictor folder. You will get the finally processed dataset named final_data.csv and then run the Movie Recommender System.ipynb you will get two files similarity.pkl and movies_dict.pkl. Place the two files in the main folder. Now place your TMDB API key in the helper.py file in fetch_poster function and finally execute the command streamlit run app.py in your terminal working in the main directory. A web app will be hosted in your local machine and you are done.
+#### Now run the Preprocessing.ipynb file in the Movie predictor folder. You will get the finally processed dataset named final_data.csv and then run the Movie Recommender System.ipynb you will get two files similarity.pkl and movies_dict.pkl. Place the two files in the main folder. Now place your TMDB API key in the helper.py file in fetch_poster function and finally execute the command streamlit run app.py in your terminal working in the main directory. A web app will be hosted in your local machine as in the image given below and you are done.
+
+
+![Screenshot (25)](https://user-images.githubusercontent.com/59216663/136661501-f90f4b15-560b-4c05-9011-1184e9be5ce5.png)
+
 
 ## How to get the API key?
 
