@@ -4,6 +4,10 @@
 
 #### A web app that recommends you movies based on the movie you search as well as show you all the details of the movie that you have searched along with its trailer and reviews.
 
+#### Check it out here:
+
+#### https://movie-recommender-system-01.herokuapp.com/
+
 ## Getting started
 
 #### In order to start with the Movie Recommendation System, just clone this repository and download the TMDB movie dataset from kaggle from the below given link.
