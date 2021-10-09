@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+requests
+beautifulsoup4
+imdbpy
+youtube-search-python
+streamlit_player
