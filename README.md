@@ -2,7 +2,7 @@
 
 #### Created and Tested on Windows 10 with Python 3.9
 
-#### A web app that recommends you movies based on the movie you search as well as show you all the details of the movie that you have searched along with its trailer and reviews.
+#### A web app that recommends you movies based on the movie you search as well as all the details of the movie along with its trailer and reviews.
 
 #### Check it out here:
 
@@ -28,7 +28,7 @@
 
 ## How does it work?
 
-#### So basically, at first we preprocess the dataset and create a final dataset. It will then be used as a medium for gettimg recommendation based on the movie you choose or search. For that, we vectorize our final dataset and calculate the similarity score for each movie and display the top 9 movies likewise in our app. We have also used the imdb module to get the details like rating, story, cast, genres, runtime, year, languages and review of the movie we searched and the Youtube api to get the trailer of our movie. We have also applied web scraping to fetch the posters of the movie from the tmdb site.
+#### So basically, at first we preprocess our original dataset and create a final dataset. It will then be used as a medium for gettimg recommendation based on the movie you choose or search. For that, we vectorize our final dataset and calculate the similarity score for each movie and display the top 9 movies likewise in our app. We have also used the imdb module to get the details like rating, story, cast, genres, runtime, year, languages and review of the movie we searched and the Youtube api to get the trailer of our movie. We have also applied web scraping to fetch the posters of the movie from the tmdb site.
 
 #### The web app has been created using streamlit.
 
